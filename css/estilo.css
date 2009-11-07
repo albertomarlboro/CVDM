@@ -1,0 +1,68 @@
+/* CSS Document */
+body{
+  background:#DD137B;
+  font-size:14px;
+}
+.chiclete{
+    background:#DD137B;
+    margin-top:30px;
+}
+.box{
+  background:#fff;
+}
+.menu{float:left;}
+
+.menu a{
+  color:#fff;
+  text-decoration:none;
+}
+
+.menu ul{list-style:none;margin:0;padding:5px;}
+.menu li{
+  background: url(../imagens/footW.png) no-repeat left top;
+  margin:0;
+  padding-left:20px;
+  font-weight:bold;
+  }
+.menu li:hover{
+  background: #DD137B url(../imagens/foot.png) no-repeat left top;
+  margin:0;
+  padding-left:20px;
+  color:#fff;
+  }
+
+
+.anel table {
+    border:1px solid #808080;
+    font-family:arial,helvetica,sans-serif;
+    font-size:12px;
+    line-height:15px;    
+    }
+.anel td{
+    text-align:center;
+    border:1px solid #808080;
+}
+
+.anel td a{
+    font-size:11px;
+}
+.boxy{
+  background:#f5f6f0 none repeat scroll 0 0;
+  border: 1px solid #d4d9ca;
+  float:left;
+  margin:0 0.5em 0 0.5em;
+  padding:7px;  
+}
+.boxyBlack{
+  background:#000000 none repeat scroll 0 0;
+  border: 1px solid #ff0000;
+  float:left;
+  margin:0 0.5em 0 0.5em;
+  padding:7px;  
+}
+/*Nossa história*/
+.dogName{color:#DD137B;}
+/*Racas*/
+.dogNameRacas{text-align:center;}
+.pedigree{display:none;}
+.racasP{text-align:justify;}
